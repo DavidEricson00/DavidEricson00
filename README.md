@@ -7,11 +7,11 @@
 
 
 <p align="left">
-  💻 Linguagens: Python, C, Java.
+  💻 Linguagens: Python, C, Java, HTML, CSS.
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: Git, GitHub, VSCode, Eclipse, HTML, CSS.
+  🛠️ Ferramentas: Git, GitHub, VSCode, Eclipse.
 </p>
 
 <p align="left">
