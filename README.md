@@ -1,25 +1,23 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou David Ericson, um entusiasta da programação. Desde cedo, sempre fui apaixonado por essa área e, atualmente, foco no desenvolvimento de projetos para aprimorar minhas habilidades e garantir minha evolução como programador.<br/>
-  No momento, curso Bacharelado em Sistemas de Informação no IFCE e sempre busco evoluir como programador. Minha stack inclui: Python, C, Java, Git, GitHub, VSCode, Eclipse, HTML e CSS.
-</p>
-
-
-<p align="left">
-  💻 Linguagens: Python, C, Java, HTML, CSS.
+  Hello, I'm David Ericson, a programming enthusiast. Since I was young, I have always been passionate about this field, and currently, I focus on developing projects to enhance my skills and to grow as a programmer.<br/>
+  At the moment, I am pursuing a Bachelor's degree in Information Systems at IFCE, and I am always looking to grow as a programmer. My stack includes: Python, C, Java, Git, GitHub, VSCode, Eclipse, HTML, and CSS.
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: Git, GitHub, VSCode, Eclipse.
+  💻 Languages: Python, C, Java, HTML, CSS.
 </p>
 
 <p align="left">
-  Contato ⤵️
+  🛠️ Tools: Git, GitHub, VSCode, Eclipse.
 </p>
 
 <p align="left">
+  Contact ⤵️
+</p>
 
+<p align="left">
   <a href="mailto:davidestudofcg@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
