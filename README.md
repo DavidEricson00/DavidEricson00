@@ -1,25 +1,51 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
+# 👓 David Ericson
+**`Backend Developer`**
 
-<p align="left"> 
-  Hello, I'm David Ericson, a programming enthusiast. Since I was young, I have always been passionate about this field, and currently, I focus on developing projects to enhance my skills and to grow as a programmer.<br/>
-  At the moment, I am pursuing a Bachelor's degree in Information Systems at IFCE, and I am always looking to grow as a programmer. My stack includes: Python, C, Java, Git, GitHub, VSCode, Eclipse, HTML, and CSS.
+Hello! My name is **David Ericson**, I am **21 years old** and I am from **Ceará, Brazil**. I completed my high school education at EEP, with a technical degree in Computer Science, and I am currently pursuing a degree in **Information Systems** at **IFCE**. I have a strong ability to understand business rules and turn them into efficient solutions, which is why I identify so strongly with **backend development**. I stand out for my creativity, adaptability, and continuous pursuit of technical growth.
+
+## ⚒️ Technologies & Tools
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
 
-<p align="left">
-  💻 Languages: Python, C, Java, HTML, CSS.
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
-<p align="left">
-  🛠️ Tools: Git, GitHub, VSCode, Eclipse.
+### Tools & Others
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
+
+<hr>
 
 <p align="left">
   Contact ⤵️
 </p>
-
 <p align="left">
   <a href="mailto:davidestudofcg@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
   <a href="https://www.linkedin.com/in/davidericson00" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidericson00" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
