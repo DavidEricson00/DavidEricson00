@@ -1,5 +1,5 @@
 # 👓 David Ericson
-**`Backend Developer`**
+**`Fullstack Developer`**
 
 Hello! My name is **David Ericson**, I am **21 years old** and I am from **Ceará, Brazil**. I completed my high school education at EEP, with a technical degree in Computer Science, and I am currently pursuing a degree in **Information Systems** at **IFCE**. I have a strong ability to understand business rules and turn them into efficient solutions, which is why I identify so strongly with **backend development**. I stand out for my creativity, adaptability, and continuous pursuit of technical growth.
 
