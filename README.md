@@ -12,6 +12,7 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Python](https://skillicons.dev/icons?i=python)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 
 ### Frontend
@@ -31,7 +32,8 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=n8n,figma)
+![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
+![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
 
 <hr>
 
