@@ -31,7 +31,7 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=n8n)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=n8n,figma)
 
 <hr>
 
