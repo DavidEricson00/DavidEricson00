@@ -7,22 +7,24 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![Express](https://skillicons.dev/icons?i=express)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 
 ### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 
@@ -30,10 +32,14 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
+![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron)
 ![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
 ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
+![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
+
 
 <hr>
 
