@@ -7,7 +7,10 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![C](https://skillicons.dev/icons?i=c)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Express](https://skillicons.dev/icons?i=express)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
