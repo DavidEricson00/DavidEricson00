@@ -7,16 +7,20 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![NestJs](https://skillicons.dev/icons?i=nestjs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Java](https://skillicons.dev/icons?i=java)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Swagger](https://go-skill-icons.vercel.app/api/icons?i=swagger)
+![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![TypeORM](https://go-skill-icons.vercel.app/api/icons?i=typeorm)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
@@ -42,8 +46,10 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 ![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
 ![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron)
 ![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
+![Jest](https://go-skill-icons.vercel.app/api/icons?i=jest)
 ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
 ![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
+![Ngrok](https://go-skill-icons.vercel.app/api/icons?i=ngrok)
 
 
 <hr>
