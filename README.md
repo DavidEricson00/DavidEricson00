@@ -18,6 +18,7 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear√
 ![Express](https://skillicons.dev/icons?i=express)
 ![Swagger](https://go-skill-icons.vercel.app/api/icons?i=swagger)
 ![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios)
+![Redis](https://go-skill-icons.vercel.app/api/icons?i=redis)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![TypeORM](https://go-skill-icons.vercel.app/api/icons?i=typeorm)
