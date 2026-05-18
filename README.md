@@ -1,13 +1,15 @@
 # 👓 David Ericson
 **`Fullstack Developer`**
 
-Hello! My name is **David Ericson**, I am **21 years old** and I am from **Ceará, Brazil**. I completed my high school education at EEP, with a technical degree in Information Technology, and I am currently pursuing a degree in **Information Systems** at **IFCE**. I have a strong ability to understand business rules and turn them into efficient solutions, which is why I identify so strongly with **backend development**. I stand out for my creativity, adaptability, and continuous pursuit of technical growth.
+Hello! My name is **David Ericson**, I am **21 years old** and I am from **Ceará, Brazil**. I graduated from **EEEP** with a technical degree in Information Technology and I am currently pursuing a degree in **Information Systems** at **IFCE**.
+
+I have a strong ability to understand business requirements and transform them into efficient and scalable solutions, which is why I identify strongly with **backend development**. I stand out for my creativity, adaptability, and continuous pursuit of technical growth.
 
 ## ⚒️ Technologies & Tools
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![NestJs](https://skillicons.dev/icons?i=nestjs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -25,7 +27,6 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear�
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-
 ### Frontend
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
@@ -37,33 +38,41 @@ Hello! My name is **David Ericson**, I am **21 years old** and I am from **Cear�
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-
-### Tools & Others
+### Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
+![Ngrok](https://go-skill-icons.vercel.app/api/icons?i=ngrok)
+
+### Tools & Others
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
-![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
 ![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron)
 ![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
 ![Jest](https://go-skill-icons.vercel.app/api/icons?i=jest)
 ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
 ![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
-![Ngrok](https://go-skill-icons.vercel.app/api/icons?i=ngrok)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidEricson00&theme=tokyonight"/>
+</div>
 
 <hr>
 
 <p align="left">
   Contact ⤵️
 </p>
+
 <p align="left">
   <a href="mailto:davidestudofcg@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://www.linkedin.com/in/davidericson00" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
