@@ -9,7 +9,10 @@ I have a strong ability to understand business requirements and transform them i
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express](https://skillicons.dev/icons?i=express)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -17,32 +20,33 @@ I have a strong ability to understand business requirements and transform them i
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![Express](https://skillicons.dev/icons?i=express)
+![Redis](https://go-skill-icons.vercel.app/api/icons?i=redis)
 ![Swagger](https://go-skill-icons.vercel.app/api/icons?i=swagger)
 ![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios)
-![Redis](https://go-skill-icons.vercel.app/api/icons?i=redis)
+
+### Databases & ORM
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![TypeORM](https://go-skill-icons.vercel.app/api/icons?i=typeorm)
-![Prisma](https://skillicons.dev/icons?i=prisma)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![TypeORM](https://go-skill-icons.vercel.app/api/icons?i=typeorm)
 
 ### Frontend
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
 ![Ngrok](https://go-skill-icons.vercel.app/api/icons?i=ngrok)
 
@@ -50,9 +54,9 @@ I have a strong ability to understand business requirements and transform them i
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron)
-![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
 ![Jest](https://go-skill-icons.vercel.app/api/icons?i=jest)
 ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
+![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
 ![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
 
 ## 📊 GitHub Stats
