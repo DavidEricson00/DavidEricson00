@@ -21,6 +21,9 @@ I have a strong ability to understand business requirements and transform them i
 ![C](https://skillicons.dev/icons?i=c)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Redis](https://go-skill-icons.vercel.app/api/icons?i=redis)
+![Express](https://go-skill-icons.vercel.app/api/icons?i=express)
+![Mongoose](https://go-skill-icons.vercel.app/api/icons?i=mongoose)
+![JWT](https://go-skill-icons.vercel.app/api/icons?i=jwt)
 ![Swagger](https://go-skill-icons.vercel.app/api/icons?i=swagger)
 ![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios)
 
@@ -28,6 +31,7 @@ I have a strong ability to understand business requirements and transform them i
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![TypeORM](https://go-skill-icons.vercel.app/api/icons?i=typeorm)
 
@@ -37,12 +41,16 @@ I have a strong ability to understand business requirements and transform them i
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React Query](https://go-skill-icons.vercel.app/api/icons?i=reactquery)
+![Styled Components](https://go-skill-icons.vercel.app/api/icons?i=styledcomponents)
+![React Router](https://go-skill-icons.vercel.app/api/icons?i=reactrouter)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
 ### Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![NGINX](https://skillicons.dev/icons?i=nginx)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
