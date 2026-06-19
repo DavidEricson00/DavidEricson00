@@ -1,9 +1,23 @@
-# 👓 David Ericson
-**`Fullstack Developer`**
+<div align="center">
 
-Hello! My name is **David Ericson**, I am **21 years old** and I am from **Ceará, Brazil**. I graduated from **EEEP** with a technical degree in Information Technology and I am currently pursuing a degree in **Information Systems** at **IFCE**.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=180&section=header&text=David%20Ericson&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=60&descSize=18&descColor=ffcccc)
 
-I have a strong ability to understand business requirements and transform them into efficient and scalable solutions, which is why I identify strongly with **backend development**. I stand out for my creativity, adaptability, and continuous pursuit of technical growth.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Node.js+%7C+PostgreSQL+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
+</div>
+
+## 👤 About me
+
+```ts
+const david = {
+  name:      "David Ericson",
+  age:       21,
+  location:  "Ceará, Brazil 🇧🇷",
+  education: ["EEEP — IT Technical Degree", "IFCE — Information Systems (in progress)"],
+  focus:     "Fullstack Development",
+  interests: ["REST APIs", "System Architecture", "DevOps", "Automation"],
+  contact:   "davidestudofcg@gmail.com",
+};
+```
 
 ## ⚒️ Technologies & Tools
 
@@ -70,21 +84,31 @@ I have a strong ability to understand business requirements and transform them i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidEricson00&theme=tokyonight"/>
+
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidEricson00&theme=dark&background=0d0d0d&border=8b0000&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&sideLabels=cc0000&dates=ffffff)
+
 </div>
 
-<hr>
+<div align="center">
 
-<p align="left">
-  Contact ⤵️
-</p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEricson00&layout=compact&theme=dark&title_color=cc0000&text_color=ffffff&bg_color=0d0d0d&border_color=8b0000&langs_count=5" />
 
-<p align="left">
-  <a href="mailto:davidestudofcg@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+</div>
+
+## 📫 Contact
+
+<div align="center">
+  <a href="mailto:davidestudofcg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/davidericson00" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/davidericson00">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=CC0000" />
   </a>
-</p>
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:8b0000,100:1a0000&height=100&section=footer)
+
+</div>
